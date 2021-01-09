@@ -1,0 +1,12 @@
+{
+  "name": "GiphyAssignment",
+  "displayName": "GiphyAssignment",
+  "expo": {
+    "name": "GiphyAssignment",
+    "slug": "GiphyAssignment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
